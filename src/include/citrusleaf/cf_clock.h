@@ -24,7 +24,7 @@
 #include <bits/time.h>
 #endif
     
-#if defined(__APPLE__) || defined(__FreeBSD__
+#if defined(__APPLE__) || defined(__FreeBSD__)
 #include <sys/time.h>
 #endif
     
